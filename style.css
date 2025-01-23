@@ -1,0 +1,13 @@
+body {
+	background-image: url(r.jpg);
+}
+
+.container {
+	background-color: yellowgreen;
+	border-radius: 20px;
+	padding: 20px;
+}
+
+.img-fluid {
+	width: 10%;
+}
